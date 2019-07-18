@@ -3,27 +3,23 @@
             {
                 "image": "https://pp.userapi.com/c857628/v857628123/1b90b/Bwke5pG4e14.jpg",
                 "name": "Рыбное филе",
-                "categoryId": "fish"
+                "categoryId": 1
             },
             {
                 "image": "https://pp.userapi.com/c857628/v857628123/1b912/8WFewx09NnI.jpg",
                 "name": "Водоросли",
-                "categoryId": "fish"
+                "categoryId": 1
             }
         ],
-        "categoryTitle": [
-            {
-                "text": "Категории"
-            }
-        ],
+  
         "banners": [
             {
                 "image": "https://pp.userapi.com/c857628/v857628123/1b91a/IlsJfS6ObxQ.jpg",
-                "productId": "снежные крабы"
+                "productId": 1
             },
             {
                 "image": "https://pp.userapi.com/c857628/v857628123/1b922/1obcq-SX24M.jpg",
-                "productId": "филе лосося"
+                "productId": 1
             }
         ]
     }
