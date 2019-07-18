@@ -1,18 +1,6 @@
-{
-        "categories": [
-            {
-                "image": "https://pp.userapi.com/c857628/v857628123/1b90b/Bwke5pG4e14.jpg",
-                "name": "Рыбное филе",
-                "categoryId": 1
-            },
-            {
-                "image": "https://pp.userapi.com/c857628/v857628123/1b912/8WFewx09NnI.jpg",
-                "name": "Водоросли",
-                "categoryId": 1
-            }
-        ],
+
   
-        "banners": [
+{"banners": [
             {
                 "image": "https://pp.userapi.com/c857628/v857628123/1b91a/IlsJfS6ObxQ.jpg",
                 "productId": 1
