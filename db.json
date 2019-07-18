@@ -1,1 +1,34 @@
-
+{
+        "categories": [
+            {
+                "image": "Fish",
+                "name": "Рыбное филе",
+                "categoryId": "fish"
+            },
+            {
+                "image": "Bread",
+                "name": "Креветки, крабы и осьминоги",
+                "categoryId": "fish"
+            },
+            {
+                "image": "Meat",
+                "name": "Икра",
+                "categoryId": "fish"
+            }
+        ],
+        "categoryTitle": [
+            {
+                "text": "Категории"
+            }
+        ],
+        "banners": [
+            {
+                "image": "crabs",
+                "productId": "снежные крабы"
+            },
+            {
+                "image": "caviar",
+                "productId": "снежные крабы"
+            }
+        ]
+    }
