@@ -1,18 +1,13 @@
 {
         "categories": [
             {
-                "image": "Fish",
+                "image": "https://pp.userapi.com/c857628/v857628123/1b90b/Bwke5pG4e14.jpg",
                 "name": "Рыбное филе",
                 "categoryId": "fish"
             },
             {
-                "image": "Bread",
-                "name": "Креветки, крабы и осьминоги",
-                "categoryId": "fish"
-            },
-            {
-                "image": "Meat",
-                "name": "Икра",
+                "image": "https://pp.userapi.com/c857628/v857628123/1b912/8WFewx09NnI.jpg",
+                "name": "Водоросли",
                 "categoryId": "fish"
             }
         ],
@@ -23,12 +18,12 @@
         ],
         "banners": [
             {
-                "image": "crabs",
+                "image": "https://pp.userapi.com/c857628/v857628123/1b91a/IlsJfS6ObxQ.jpg",
                 "productId": "снежные крабы"
             },
             {
-                "image": "caviar",
-                "productId": "снежные крабы"
+                "image": "https://pp.userapi.com/c857628/v857628123/1b922/1obcq-SX24M.jpg",
+                "productId": "филе лосося"
             }
         ]
     }
