@@ -77,13 +77,11 @@
                 "productId": 1
             }
         ],
-        "lastOrder" : 
-                {
+        "lastorder":  {
                  "date": "12.06.19",
                  "id": 320,
                  "sum": 12600,
                  "title": "Собирается"       
                 }
-        
     }
     
